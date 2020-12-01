@@ -1,4 +1,5 @@
 options(max.print=1000000)  #to solve "reached 'max' / getOption("max.print")"
+#personal commands, just for remembered :)
 #vectors
 c <- 1:6
 -(5:20) # negative numbers
